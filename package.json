@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomifuchi/domUtil.git"
+    "url": "git+https://github.com/tomifuchi/short-dom-util.git"
   },
   "keywords": [
     "dom",
@@ -18,7 +18,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tomifuchi/domUtil/issues"
+    "url": "https://github.com/tomifuchi/short-dom-util/issues"
   },
-  "homepage": "https://github.com/tomifuchi/domUtil#readme"
+  "homepage": "https://github.com/tomifuchi/short-dom-util#readme"
 }
