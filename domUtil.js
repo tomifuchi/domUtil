@@ -83,11 +83,11 @@ function createFormElement() {
 }
 */
 
-module.exports = {
+module.exports =  {
     //Creation
     c, tc, sa, ap, cea,
     //Clearing
     clc,
     //Querying
-    qc, qcf, qa, qafe, qafa
+    qc, qcf, qa, qafe, qafa,
 }

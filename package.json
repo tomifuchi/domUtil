@@ -1,0 +1,24 @@
+{
+  "name": "domutil",
+  "version": "1.0.0",
+  "description": "Simple short dom manipulation functions for personal use",
+  "main": "domUtil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomifuchi/domUtil.git"
+  },
+  "keywords": [
+    "dom",
+    "frontend",
+    "query"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomifuchi/domUtil/issues"
+  },
+  "homepage": "https://github.com/tomifuchi/domUtil#readme"
+}
