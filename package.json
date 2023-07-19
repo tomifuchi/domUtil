@@ -1,8 +1,8 @@
 {
-  "name": "domutil",
+  "name": "short-dom-util",
   "version": "1.0.0",
   "description": "Simple short dom manipulation functions for personal use",
-  "main": "domUtil.js",
+  "main": "short-dom-util.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
